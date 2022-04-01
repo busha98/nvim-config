@@ -35,6 +35,8 @@ Plugin 'christianchiarulli/nvcode-color-schemes.vim'
 Plugin 'nvim-treesitter/nvim-treesitter'
 " Plugin 'altercation/vim-colors-solarized'
 
+" sudo apt install fzf
+" sudo apt install silversearcher-ag
 Plugin 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
 Plugin 'junegunn/fzf.vim', {
         \ 'on': [
